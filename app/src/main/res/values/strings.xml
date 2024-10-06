@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ev2_FV</string>
+    <string-array name ="laboratorios">
+        <item>Seleccione laboratorio</item>
+        <item>C2</item>
+        <item>LINF</item>
+        <item>LEICA</item>
+        <item>LNET</item>
+        <item>LTEL</item>
+    </string-array>
+</resources>
